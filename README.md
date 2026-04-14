@@ -18,7 +18,9 @@
 -Data cleaning analysis
 -Data visualization analysis
 ## 4. Key Findings
-
+1.Apple tends to have higher sales. However,Microsoft maintained a more stable and higher net profit margin and ROE than Apple over the 5 years, mainly driven by the high-margin Azure cloud business. 
+2.Apple's current ratio declined continuously from 2020 to 2023, due to its large-scale stock repurchase and dividend distribution programs, while Microsoft maintained a stable and healthy solvency level.
+3.Microsoft's revenue growth was more stable, with a 5-year CAGR of 12%, while Apple's revenue growth was more volatile, highly dependent on the iPhone product cycle and global consumer electronics demand.
 
 
 
@@ -26,7 +28,7 @@
 ## 5.How to run the code:
 -Environment: Python3 (ipykernel)
 -What we need:panda,seaborn,numpy,matplotlib.pyplot
--
+-Steps: Import WRDS;
 ## 6. Demo Video Link
 
 ## 7. Limitations & Future Improvements
