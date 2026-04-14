@@ -26,8 +26,8 @@
 ## 5.How to run the code:
 -Environment: Python3 (ipykernel)
 -What we need:panda,seaborn,numpy,matplotlib.pyplot
--Steps:Financial analysis about two companies' financial: 1.Import WRDS and make preparations(For instance, import panda); 2.List all the conditions we want to research;3.Find AAPL and MFC's data;4.Draw the bar chart(reflecting sales);5.Clean the data(Get ROA,ROE,Revenue growth rate,current ration and net profit margin);5.Draw the diagram;
--Additional research: Apple's sale and COVID19's relationship
+-Steps:Financial analysis about two companies' financial: 1.Import WRDS and make preparations(For instance, import panda); 2.List all the conditions we want to research;3.Find AAPL and MFC's data;4.Clean the data(Get ROA,ROE,Revenue growth rate,current ration and net profit margin);5.Draw the diagram;
+-Additional research: 6.Apple's sale and COVID19's relationship
 
 ## 6. Demo Video Link
 
