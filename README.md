@@ -39,4 +39,5 @@ For NVDA:I found that NVDA has been excel.There are several significant reasons 
 ## 7. Limitations & Future Improvements
 -Limitation 1.This analysis doesn’t consider other resources such as Yahoo Finance. So it might be not comprehensive enough.
 -Limitation 2. This model doesn't use math model to analyze the driving factors of financial performance.
--For future improvements,I will add a regression analysis to explore the driving factor of financial performance, and incorporate non-financial indicators to make the analysis more comprehensive. 
+-Limitation 3. This model doesn't retrieve comprehensive industry average data because it is really difficult for me to find reliable data in different industry.
+-For future improvements,I will add a regression analysis to explore the driving factor of financial performance, and incorporate non-financial indicators to make the analysis more comprehensive. Maybe I will also add some industry average data in the future. 
