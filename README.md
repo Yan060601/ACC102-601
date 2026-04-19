@@ -35,7 +35,7 @@ For NVDA:I found that NVDA has been excel.There are several significant reasons 
 -Steps:1.Import WRDS and input your WRDS account;2.Make preparations(Panda,,seaborn,numpy,matplotlib.pyplot);3.Download the data that we should analyze(Input up to 2 company);4.Clean the data(up to 2 company, companies are whatwe selected before and you need to input them again); 5.Data visualization(The company we chose,system will generate it automatically)
 
 ## 6. Demo Video Link
-https://www.bilibili.com/video/BV1AQdoBgEwK/?vd_source=57435a48f10b3908aa315c94dfb6e371
+https://www.bilibili.com/video/BV1rBoFB1EoX/?spm_id_from=333.1387.homepage.video_card.click&vd_source=57435a48f10b3908aa315c94dfb6e371
 ## 7. Limitations & Future Improvements
 -Limitation 1.This analysis doesn’t consider other resources such as Yahoo Finance. So it might be not comprehensive enough.
 -Limitation 2. This model doesn't use math model to analyze the driving factors of financial performance.
