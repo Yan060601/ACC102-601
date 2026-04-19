@@ -1,6 +1,6 @@
 # ACC102 2472238 Kunbo yan: Deepening insights into Apple and Microsoft's financial data with Python
 ## 1. Problem & Target User
--Problem:Quantifying the differences in profitability, solvency, and growth capacity between the two companies that user selects, and identifying the driving factors behind the financial performance changes. 
+-Problem:Quantifying the differences in profitability, solvency, and growth capacity between the two companies that user selects
 -Target user: investors who want to know and compare compamy's financial data(in the US stock market)
 -I designed a simple product for WRDS's users to select the company that they want to analyze, providing with reliable data, comprehensive data cleaning process and whole data visualization process.
 ## 2. Data Source
